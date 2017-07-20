@@ -4,10 +4,8 @@ package com.mycompany.app;
  * Hello world!
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main(String[] args) {
         /* Create two objects using constructor */
         Employee empOne = new Employee("James Smith");
         Employee empTwo = new Employee("Mary Anne1");
